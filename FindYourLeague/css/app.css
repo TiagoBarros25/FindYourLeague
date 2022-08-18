@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+}
+#body {
+    background-color: black;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 200%;
+    width: 100%;
+    height: 100%;
+    color: red;
+}
+.random-film {
+    padding: 10px;
+    border: 2px solid #4CAF50;
+}
+#app {
+    display: flex;
+    height: 30%;
+    width: 30%;
+    color: white;
+    justify-items: center;
+    align-items: center;
+}
+.form-control {
+    display: flex;
+    flex-wrap: wrap;
+    width: 40%;
+    height: 40%;
+    margin-inline-start: 50px;  
+}
+#megaBox {
+    margin: 20px;
+    font-size: 100%;
+    color: red;
+}
+.nameLeague {
+    color: white;
+}
+#megaBox2 {
+    display: flex;
+    max-height: 100%;
+    max-width: 100%;
+    color: white;
+    justify-items: center;
+}
+#megaBox3 {
+    display: flex;
+    max-height: 100%;
+    max-width: 100%;
+    color: white;
+    justify-items: center;
+}
